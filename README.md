@@ -11,6 +11,6 @@
 ## How to run file ?
 º Open the terminal and use the command 
  ```sh
-ruby NomeDoArquivo.rb
+ruby age.rb
 ```
 </div>
